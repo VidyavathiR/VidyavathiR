@@ -61,4 +61,4 @@ I'm a motivated MCA graduate from Bengaluru, Karnataka, India, with hands-on int
 - **GitHub**: [Vidyavathi R](https://github.com/VidyavathiR)
 - **Phone**: +91-9886514993
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidyavathiR&show_icons=true)
+
