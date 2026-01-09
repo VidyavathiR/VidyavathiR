@@ -1,64 +1,72 @@
-# Hi there, I'm Vidyavathi R! 👋
+# Hi, I’m Vidyavathi R 👋
 
 ## About Me
-I'm a motivated MCA graduate from Bengaluru, Karnataka, India, with hands-on internship experience in Python full-stack web development. I am eager to apply my technical skills, collaborate on projects, and drive success. I am committed to continuous learning and poised to make a positive impact in the dynamic world of technology.
+I am an MCA graduate and Junior Web Developer based in Bengaluru, India. I have hands-on experience through internships and real-world projects in frontend and backend web development. I enjoy building responsive, user-focused applications and continuously improving my technical skills.
 
-## Skills and Technologies
-- **Programming Languages**: Python
-- **Web Development Technologies**: HTML, CSS, JavaScript
-- **Libraries**: React, Redux
-- **Frameworks**: Django, Flask, Bootstrap, Tailwind CSS
-- **Databases**: MySQL, MongoDB
-- **Tools and Platforms**: AWS, Git, GitHub
-- **Soft Skills**: Team Collaboration, Continuous Learning, Adaptability
+I am currently seeking an entry-level or junior web developer role where I can learn, contribute, and grow as part of a development team.
 
-## Projects
+---
 
-### [Multi-Service Web Application](https://github.com/your-github-username/your-project-repo)
-*Developed at LinuxWorld Informatics Pvt Ltd (Internship Project)*
-- **Technologies**: Python, HTML, CSS, JavaScript
-- Streamlined users' lives with versatile digital services.
-- Collaborated with a team of 5 developers, ensuring 100% on-time project delivery.
-- **Duration**: Jul 2023 – Sep 2023
+## Technical Skills
+**Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS  
+**Backend:** Python, Django, Flask  
+**Databases:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code  
+**Other:** REST APIs, Responsive Web Design
 
-### [Portfolio Website for Architecture Client](https://shilpakalamandir-website.onrender.com/)
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python (Django)
-- Developed a portfolio website showcasing an architecture client's work and facilitating client engagement.
-- **GitHub**: [shilpakalamandir_website](https://github.com/VidyavathiR/shilpakalamandir_website)
+---
 
-### [MaxKart (In Progress)](https://github.com/VidyavathiR/MaxKart)
-- **Frontend**: HTML, CSS, Bootstrap
-- **Backend**: Python (Django)
-- **Database**: MySQL
-- **Payment Option**: PayPal
-- E-commerce web application for secure product purchases.
+## Featured Projects
 
-### [Career Glide](https://github.com/VidyavathiR/CareerGlide)
-- **Frontend**: HTML, CSS, Bootstrap
-- **Backend**: Python (Flask)
-- **Database**: MongoDB
-- Job application web app using Python (Flask) and MongoDB.
+### 🔹 FoodApp – React
+A React-based food application that fetches and displays recipe data using a public API.  
+**Tech:** React.js, JavaScript, Bootstrap  
+🔗 https://github.com/VidyavathiR/FoodApp-React
 
-### [Responsive Landing Page Development](https://virtualr-rho.vercel.app/)
-- **Technologies**: React.js, Vite, Tailwind CSS
-- Developed a landing page that enhanced user engagement by 25%.
-- **GitHub**: [Virtualr](https://github.com/VidyavathiR/Virtualr)
+---
+
+### 🔹 Responsive Landing Page
+A modern, mobile-friendly landing page built using React and Tailwind CSS.  
+**Tech:** React.js, Tailwind CSS  
+🔗 https://virtualr-rho.vercel.app/
+
+---
+
+### 🔹 Career Glide – Job Application Platform
+A web application that allows users to explore and apply for job opportunities.  
+**Tech:** Flask, MongoDB, HTML, CSS, JavaScript  
+🔗 https://github.com/VidyavathiR/CareerGlide
+
+---
+
+### 🔹 Client Portfolio Website
+A professional portfolio website developed for an architecture client.  
+**Tech:** Django, HTML, CSS, Bootstrap  
+🔗 https://shilpakalamandir-website.onrender.com/
+
+---
+
+### 🔹 Multi-Service Web Application (Internship Project)
+A multi-service web platform developed during internship with collaborative team work.  
+**Tech:** Python, HTML, CSS, JavaScript  
+🔗 https://github.com/VidyavathiR/Multi-Service-Web-Application
+
+---
 
 ## Education
-- **Master of Computer Application**: T John College, Bengaluru, India (2021 – 2023)
-- **Bachelor of Computer Application**: The Oxford College of Science, Bengaluru, India (2018 – 2021)
-- **Pre-University Course**: Jain College, Bengaluru, India (2016 – 2018)
+- **MCA** – T John College, Bengaluru  
+- **BCA** – The Oxford College of Science, Bengaluru  
+
+---
 
 ## Certifications
-- Research Based Summer Industrial Internship training on Empowering Python Full Stack- Web App Development.
-- Python Enablement Training.
-- AWS Cloud with Artificial Intelligence Workshop.
+- Python Enablement Training  
+- Research Based Summer Internship – Python Full Stack  
+- AWS Cloud with Artificial Intelligence Workshop  
 
-## Contact Me
-- **Email**: [vidyavathi2812@gmail.com](mailto:vidyavathi2812@gmail.com)
-- **LinkedIn**: [Vidyavathi R](https://www.linkedin.com/in/vidyavathir/)
-- **GitHub**: [Vidyavathi R](https://github.com/VidyavathiR)
-- **Phone**: +91-9886514993
+---
 
-
+## Contact
+📧 Email: vidyavathi2812@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/vidyavathir  
+💻 GitHub: https://github.com/VidyavathiR
